@@ -26,7 +26,7 @@ Markdown lets you write readable plain text that GitHub can render as a clean we
 
 
 
-\- \[Project Overview](#project-overview)
+\- \[Project Overview](#project-overview).
 
 \- \[Getting Started](#getting-started)
 
